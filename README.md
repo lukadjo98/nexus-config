@@ -1,2 +1,2 @@
-# artifactory-config
-Artifactory config
+# nexus-config
+Nexus config
