@@ -1,0 +1,1 @@
+sudo docker exec nexus cat /nexus-data/admin.password
